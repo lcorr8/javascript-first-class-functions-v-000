@@ -188,6 +188,9 @@ afterExercise();
 
 ![first-class functions in action](https://curriculum-content.s3.amazonaws.com/skills-based-js/first-class_functions_example.png)
 
+
+notes: ^^^ how come you have to call the afterExercise() in order to get the breakfast input?
+
 If you haven't been following along, it's vitally important that you go back and do so. First-class functions are one
 of JavaScript's most powerful features, but it takes some practice for them to sink in.
 
